@@ -1,0 +1,24 @@
+header{
+    background-color: #fc0303;
+    text-align: center;
+    padding: 20px;
+}
+
+nav{
+    overflow: hidden;
+    background-color: blueviolet;
+}
+
+nav a{
+    float: left;
+    display: block;
+    color: palevioletred;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: orange;
+    color: yellow
+}

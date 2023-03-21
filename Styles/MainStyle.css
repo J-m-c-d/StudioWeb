@@ -1,0 +1,45 @@
+header{
+    border-bottom: 2px solid orange;
+    background-color: aqua;}
+main{
+    height: 350px;
+    width: 64%;
+    float: left;
+    border-right: 2px black;
+    background-color: aqua;}
+aside{
+    float: right;
+    width: 35%;
+    background-color: purple;
+    height: 350px;}
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+nav{
+    overflow: hidden;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+nav a{
+    float: left;
+    display: block;
+    color: palevioletred;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav :hover{
+    background-color: orange;
+    color: yellow
+}
+
+P{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: blue;
+    text-decoration: underline;
+}
